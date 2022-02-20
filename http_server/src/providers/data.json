@@ -1,0 +1,92 @@
+[
+  {
+    "uuid": "7ef6d9ae-19d2-4508-a9e8-e92b1df6fe26",
+    "username": "anisimharitonov",
+    "password": null,
+    "email": "bazhen1994@google.com",
+    "first_name": "Майя",
+    "middle_name": "Кузьминична",
+    "last_name": "Игнатова"
+  },
+  {
+    "uuid": "4a01004e-27f7-4390-8eef-3071b3fa10b9",
+    "username": "igormamontov",
+    "password": null,
+    "email": "celiseeva@rambler.ru",
+    "first_name": "Маслова",
+    "middle_name": "Антонина",
+    "last_name": "Львовна"
+  },
+  {
+    "uuid": "b69ba777-c931-476e-8df7-2701021e1e7c",
+    "username": "vorontsovatamara",
+    "password": null,
+    "email": "shcherbakovosip@google.com",
+    "first_name": "Александра",
+    "middle_name": "Ивановна",
+    "last_name": "Ермакова"
+  },
+  {
+    "uuid": "9062b5c6-ecdf-41e6-9d97-346ca34ece29",
+    "username": "konovalovkliment",
+    "password": null,
+    "email": "gordeevkallistrat@google.com",
+    "first_name": "Бажен",
+    "middle_name": "Фомич",
+    "last_name": "Гуляев"
+  },
+  {
+    "uuid": "a34aa504-0a66-4eb0-9f48-da8609a42396",
+    "username": "serafim_1997",
+    "password": null,
+    "email": "marfa_1992@yandex.ru",
+    "first_name": "Прокофий",
+    "middle_name": "Богданович",
+    "last_name": "Дроздов"
+  },
+  {
+    "uuid": "8e7a0b99-68d1-4ed5-b3a2-fabf3f2be443",
+    "username": "pnesterov",
+    "password": null,
+    "email": "zhukovpavel@google.com",
+    "first_name": "Евсеев",
+    "middle_name": "Макар",
+    "last_name": "Иосифович"
+  },
+  {
+    "uuid": "895e5aa1-71cc-48ef-8974-81950ba8eaf8",
+    "username": "qzueva",
+    "password": null,
+    "email": "akulina2001@google.com",
+    "first_name": "Агафья",
+    "middle_name": "Владиславовна",
+    "last_name": "Родионова"
+  },
+  {
+    "uuid": "55596aab-47e5-4ddf-9644-1f3d37307bd4",
+    "username": "maja_1996",
+    "password": null,
+    "email": "froloviosif@yandex.ru",
+    "first_name": "Романов",
+    "middle_name": "Афанасий",
+    "last_name": "Исидорович"
+  },
+  {
+    "uuid": "126da480-b5f7-443f-8cfa-aa059a4c969f",
+    "username": "shcherbakovakim",
+    "password": null,
+    "email": "seliverstovgennadi@rambler.ru",
+    "first_name": "Федосеев",
+    "middle_name": "Мирон",
+    "last_name": "Денисович"
+  },
+  {
+    "uuid": "c6bc1f03-1157-4053-b847-b43cc297efa2",
+    "username": "selivan_09",
+    "password": null,
+    "email": "efimovizot@google.com",
+    "first_name": "Иванна",
+    "middle_name": "Тимуровна",
+    "last_name": "Орлова"
+  }
+]
